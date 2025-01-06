@@ -1,0 +1,3 @@
+User_ID,Age,Gender,Location,Time_Spent,Courses_Completed,Subscription_Type,Is_Churn,Feedback
+2,30,Male,California,5,1,Free,1,"""Too many ads and the courses are not helpful at all."""
+3,35,Female,Texas,50,10,Premium,0,"""Great content but the mobile app experience needs improvement."""

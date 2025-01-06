@@ -1,0 +1,2 @@
+User_ID,Age,Gender,Location,Time_Spent,Courses_Completed,Subscription_Type,Is_Churn,Feedback,Predictions
+1,25,Female,New York,20,5,Premium,0,"""The platform is amazing! I love the courses and the structure.""",1
